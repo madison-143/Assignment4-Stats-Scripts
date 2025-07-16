@@ -21,9 +21,7 @@ https://scipy-lectures.org/packages/statistics/index.html
 
 Notebooks/
   - stats_python.ipynb # Notebook with completed exercises and comments
-  - brain_size.csv
-  - iris.csv
-  - wages.txt
+.gitignore # Ignoring checkpoints and cache
 Stats4_environment.yml # Conda environment definition
 Assignment4_env.sh # Script to activate environment
 README.md # This file
