@@ -5,11 +5,17 @@ This repository contains a Jupyter notebook that walks through statistical analy
 ## Requirements
 
 jupyterlab
+
 python
+
 pandas
+
 numpy
+
 statsmodels
+
 matplotlib
+
 seaborn
 
 ## Source
@@ -21,9 +27,13 @@ https://scipy-lectures.org/packages/statistics/index.html
 
 Notebooks/
   - stats_python.ipynb # Notebook with completed exercises and comments
+
 .gitignore # Ignoring checkpoints and cache
+
 Stats4_environment.yml # Conda environment definition
+
 Assignment4_env.sh # Script to activate environment
+
 README.md # This file
 
 ## Getting Started
